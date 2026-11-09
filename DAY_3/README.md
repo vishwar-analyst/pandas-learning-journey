@@ -1,27 +1,41 @@
-# Day 3 – Pandas Learning Journey
+# Day 3 – Pandas Learning Journey 🚀
 
-## Topics Covered
+## 📚 Topics Covered
 
-### Table Reshaping
+### 1. Table Reshaping
+
 | No. | Problem | Difficulty |
 |---|---|---|
 | 1 | Reshape Data: Concatenate | Easy |
 | 2 | Reshape Data: Pivot | Easy |
 | 3 | Reshape Data: Melt | Easy |
+| 4 | Method Chaining | Easy |
 
-### Advanced Techniques
+### 2. Advanced Techniques
 - Method Chaining
 
-## Skills Practiced
+## 💡 Skills Practiced
+
 - Concatenating DataFrames
-- Pivoting data
+- Pivoting DataFrames
 - Melting DataFrames
 - Reshaping tabular data
-- Method chaining
+- Applying method chaining
+- Working with Pandas transformations
 
-## Language & Tools
+## 🛠️ Language & Tools
+
 - Python
 - Pandas
 - LeetCode
+- Git & GitHub
 
-**Day 3 completed!** 🚀
+## 🎯 Learning Outcome
+
+Practiced different techniques to reshape and transform tabular data using Pandas. Learned how to combine, restructure, and efficiently manipulate DataFrames using method chaining.
+
+---
+
+**Day 3 Completed!** 🎉
+
+Continuing my Pandas learning journey, one problem at a time! 🚀
